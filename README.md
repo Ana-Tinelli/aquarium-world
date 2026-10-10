@@ -4,6 +4,12 @@ An academic web application for a fictional aquarium, built with Node.js, Expres
 
 The project combines a responsive visitor website with database-driven content, asynchronous search, event filtering and a contact form.
 
+## Visual preview
+
+![Aquarium World mobile layout from the assessment documentation](images/documented_mobile.jpeg)
+
+Mobile screenshot recorded in the assessment documentation.
+
 ## Main features
 
 - Aquarium zones and exhibit information loaded from SQLite.
